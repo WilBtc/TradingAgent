@@ -16,11 +16,12 @@ If you want to **STACK SATS LIKE A MACHINE**, keep going...
 
 ## 💰 **WHAT IF I TOLD YOU...**
 
-- ✅ **10-SECOND SCANNING** for profit opportunities
+- ✅ **WE RUN EVERYTHING FOR YOU** - No setup, no maintenance, no headaches
+- ✅ **10-SECOND SCANNING** for profit opportunities  
 - ✅ **AI AGENTS** that never sleep, never panic, never FOMO
 - ✅ **10-33X LEVERAGE** managed by cold, calculating algorithms  
 - ✅ **AUTOMATIC PROFIT TAKING** when humans would hold too long
-- ✅ **RISK MANAGEMENT** that actually protects your stack
+- ✅ **PROFESSIONAL MONITORING** - 99.9% uptime guaranteed
 
 ### 📊 **THE NUMBERS DON'T LIE:**
 
@@ -35,6 +36,27 @@ If you want to **STACK SATS LIKE A MACHINE**, keep going...
 ---
 
 ## 🎬 **BUT WAIT... THERE'S MORE!**
+
+### **💎 TWO WAYS TO PRINT MONEY:**
+
+#### **🔥 MANAGED SERVICE** *(Most Popular)*
+**We run the AI, you collect the profits**
+- Starting at **$99/month**
+- **No technical setup** required
+- **Professional monitoring** 24/7
+- **99.9% uptime** guaranteed
+- **You just connect API and profit**
+
+#### **💻 SELF-HOSTED** *(For Tech Nerds)*
+**Full control, you manage everything**
+- **One-time cost** for source code
+- **You handle** servers and monitoring
+- **Technical knowledge** required
+- **Complete customization** possible
+
+**[📋 Compare Plans & Pricing →](SERVICE.md)**
+
+---
 
 ### **🤖 MEET YOUR AI TRADING TEAM:**
 
@@ -281,8 +303,23 @@ And now I'm sharing it with you.
 
 ## 🚀 **READY TO STOP LOSING AND START WINNING?**
 
+### **🔥 OPTION 1: MANAGED SERVICE** *(Recommended)*
+**We run the AI for you - You just collect profits**
+
+- ✅ **No setup required** - We handle everything
+- ✅ **99.9% uptime** - Professional infrastructure  
+- ✅ **24/7 monitoring** - Never miss opportunities
+- ✅ **Enterprise security** - Your funds stay safe
+- ✅ **Starting at $99/month** - ROI pays for itself
+
+**[📋 VIEW MANAGED SERVICE PLANS →](SERVICE.md)**
+
+### **💻 OPTION 2: SELF-HOSTED**
+**For technical users who want full control**
+
 ```bash
-git clone git@github.com:WilBtc/TradingAgent.git
+git clone https://github.com/WilBtc/TradingAgent.git
+make install && make run
 ```
 
 **Time to let the machines do what they do best: make money without emotions.**

@@ -1,5 +1,35 @@
 # ⚡ QUICK START - FROM ZERO TO MONEY ⚡
 
+*Choose your path to profits*
+
+---
+
+## 🔥 **OPTION 1: MANAGED SERVICE** *(Recommended)*
+
+**We run everything for you - Just connect and profit**
+
+### **Step 1: Choose Your Plan**
+[📋 View Plans & Pricing →](SERVICE.md)
+
+### **Step 2: Contact Sales**
+- 📧 Email: sales@wilbtc.com
+- 💬 Discord: WilBTC#1337
+- 📅 Book demo call
+
+### **Step 3: Connect Your API**
+We'll help you securely connect your LNMarkets account
+
+### **Step 4: Start Printing Money**
+Our AI runs 24/7 while you sleep
+
+**⏱️ Setup Time: 15 minutes**
+**🛠️ Technical Knowledge: None required**
+**💰 Monthly Cost: Starting at $99**
+
+---
+
+## 💻 **OPTION 2: SELF-HOSTED** *(For Tech Users)*
+
 *Get your AI trading agent running in under 5 minutes*
 
 ---
