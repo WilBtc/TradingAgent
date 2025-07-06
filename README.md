@@ -240,7 +240,7 @@ make run
 
 Hey, it's WilBTC.
 
-I built this because I was tired of losing money on stupid trades.
+I built this because I was tired of trading my time.
 
 Tired of waking up to blown positions.
 Tired of missing obvious opportunities.
@@ -297,11 +297,7 @@ git clone git@github.com:WilBtc/TradingAgent.git
 
 ### 🔥 **P.S.** 
 
-Still reading? You're overthinking it.
-
-The AI is running live trades right now while you're reading this.
-
-Every second you wait is a second of profits you're missing.
+Built to work with LNMarkets api 
 
 **Just. Do. It.**
 
