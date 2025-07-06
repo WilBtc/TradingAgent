@@ -47,8 +47,8 @@
 ### **🏆 ENTERPRISE PLAN** - *$799/month*
 - **Account Size**: $50,000+
 - **Trading Frequency**: All agents + custom strategies
-- **Max Positions**: 10 concurrent
-- **Profit Target**: 8-12% monthly
+- **Max Positions**: 99 concurrent
+- **Profit Target**: 9-33% monthly
 - **Support**: Dedicated account manager
 - **Setup**: Custom configuration + training
 
@@ -196,7 +196,7 @@ make install && make run
 
 **Ready to let our AI print money for you?**
 
-- 📧 **Email**: sales@wilbtc.com
+- 📧 **Email**: waroca@insaing.com
 - 💬 **Discord**: WilBTC#1337
 - 📱 **Telegram**: @WilBTC
 - 🔗 **Calendar**: Book a 15-minute demo call
