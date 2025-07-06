@@ -1,0 +1,59 @@
+{
+  "system_type": "self_hosted_lnmarkets",
+  "auto_trading_enabled": true,
+  "trading_mode": "aggressive_profit",
+  "symbol": "BTCUSD",
+  
+  "trading_parameters": {
+    "min_confidence_threshold": 0.45,
+    "max_position_size": 0.003,
+    "max_leverage": 33,
+    "update_interval_minutes": 0.167,
+    "max_concurrent_positions": 5
+  },
+  
+  "profit_optimization": {
+    "target_daily_profit": 0.05,
+    "stop_loss_percentage": 0.015,
+    "take_profit_percentage": 0.025,
+    "trailing_stop_enabled": true,
+    "quick_scalp_mode": true
+  },
+  
+  "risk_management": {
+    "max_daily_loss": 0.04,
+    "emergency_stop_loss": 0.06,
+    "position_scaling": true,
+    "sentiment_boost": true,
+    "volatility_adjustment": true
+  },
+  
+  "agent_weights": {
+    "technical_weight": 0.4,
+    "sentiment_weight": 0.35,
+    "fundamental_weight": 0.25,
+    "news_boost_multiplier": 1.2
+  },
+  
+  "execution_settings": {
+    "order_type": "market",
+    "slippage_tolerance": 0.001,
+    "retry_attempts": 3,
+    "execution_delay_ms": 500
+  },
+  
+  "data_sources": {
+    "lnmarkets": true,
+    "coingecko": true,
+    "fear_greed_index": true,
+    "crypto_news": true,
+    "cache_duration_minutes": 1
+  },
+  
+  "logging": {
+    "log_all_decisions": true,
+    "log_execution_details": true,
+    "performance_tracking": true,
+    "profit_notifications": true
+  }
+}

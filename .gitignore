@@ -1,0 +1,73 @@
+# 🔥 BITCOIN TRADING AGENT - .gitignore 🔥
+# Made by WilBTC
+
+# 🔑 NEVER commit these (your money depends on it)
+.env
+.env.local
+.env.production
+*.key
+*.pem
+secrets/
+
+# 💻 Python stuff
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 📊 Trading data
+logs/
+*.log
+historical_data/
+backups/
+data/cache/
+*.pid
+
+# 🧪 Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# 💎 IDE stuff
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 🖥️ OS stuff  
+.DS_Store
+Thumbs.db
+
+# 📱 Virtual environments
+venv/
+env/
+ENV/
+trading_env/
+
+# 📈 State files (these can contain sensitive balance info)
+*_state.json
+*_history.json
+positions_*.json
+pnl_*.json
+
+# Keep the example files though
+!.env.example
+!config/example_*.json
