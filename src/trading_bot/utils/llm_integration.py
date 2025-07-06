@@ -42,7 +42,7 @@ class DeepSeekTradingAI:
     
     def __init__(self, api_key: str = None):
         # DeepSeek API configuration
-        self.api_key = api_key or os.getenv('DEEPSEEK_API_KEY') or 'sk-c421e1af764e4ff48c726a0b4cdcec48'
+        self.api_key = api_key or os.getenv('DEEPSEEK_API_KEY')
         self.client = None
         
         # Only initialize client if API key is available
